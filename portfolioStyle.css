@@ -1,11 +1,11 @@
-body {background:purple
-
+body {
+    background: purple
 }
+
 .paragraph {
     font-family: Arial, Helvetica, sans-serif;
-    color:  rgb(0,200,164);
-    
-} 
+    color: rgb(0, 200, 164);
+}
 
 .project {
     background-color: blue;
@@ -15,29 +15,21 @@ body {background:purple
     color: red;
 }
 
-#picture{
-    height:400px;
-    width:600px;
-
+#picture {
+    height: 400px;
+    width: 600px;
 }
-div{
-    float: left;
+
+div {
+    float: right;
     font-size: 30px;
     color: black;
     text-align: left;
-     widows: 30%;
-     padding:10px;
-     border-style: solid;
-     border-color: blue;
-     border-width: 10px;
-     margin: 3em;
-     background-color:greenyellow 
-     
-
-       
+    widows: 30%;
+    padding: 10px;
+    border-style: solid;
+    border-color: blue;
+    border-width: 10px;
+    margin: 3em;
+    background-color: greenyellow
 }
-
-
-
-
-
