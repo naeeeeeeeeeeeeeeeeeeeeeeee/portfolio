@@ -14,3 +14,26 @@ body {background:purple
 .aboutme {
     color: red;
 }
+
+#picture{
+    height:400px;
+    width:600px;
+
+}
+div{
+    float: left;
+    font-size: 30px;
+    color: black;
+    text-align: left;
+     widows: 30%;
+     padding:10px;
+     border-style: solid;
+     border-color: blue
+     border-width: 10px;
+     margin: 3em;  
+}
+
+
+
+
+
