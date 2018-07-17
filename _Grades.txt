@@ -21,3 +21,12 @@ Grade:  70
 Comment:  Overall a good start, but there were some broken and misplaced things.
 
 I did note a few things as TODO items in your code.   You can view them by clicking the ToDo Tree icon on the left of your VS Code window.
+
+
+########
+
+Assignment: Use Google Forms to add a contact form to your page.
+
+Grade: 100
+
+Comment:  Good job.
