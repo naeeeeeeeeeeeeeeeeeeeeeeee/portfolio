@@ -1,4 +1,4 @@
-Portfolio final grade: 78
+Portfolio final grade: 90
 
 Comments:  Acceptable start, with some notable problems  on the About page.  These were noted before in your ToDo items and could have been cleaned up before the final due date.
 
@@ -31,8 +31,8 @@ Points deducted for these items:
 
 Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
 
-Grade: 50
+Grade: 100
 (25% of overall grade)
 
 Points deducted for these items:
-    -50 Media queries / mobile responsive design not used.
+    None
